@@ -4,8 +4,9 @@ date = "2023-06-08"
 draft = false
 pinned = false
 tags = ["informatik", "internet"]
+footnotes = "<https://www.schau-hin.info/studien/studien-zur-mediennutzung >\n\n<https://www.kindergesundheitinfo.de/themen/medien/medienarten/computerinternet/#:~:text=F%C3%BCr%20Kinder%20kann%20das%20Internet,Entwicklungsstand%20und%20Interessenslage%20sehr%20unterschiedlich>\n\n<https://www.saferinternet.at/news-detail/neue-studie-72-prozent-der-0-bis-6-jaehrigen-im-internet >\n\n<https://www.dkhw.de/schwerpunkte/medienkompetenz/informationen-zur-mediennutzung/studie-online-interaktionsrisiken/ >"
 +++
-Das Thema "Der Einfluss vom Internet auf Kinder und ihre Entwicklung" ist von großer Bedeutung, da es die Auswirkungen der digitalen Welt auf die jüngere Generation betrifft. 
+{{<box>}} Das Thema "Der Einfluss vom Internet auf Kinder und ihre Entwicklung" ist von großer Bedeutung, da es die Auswirkungen der digitalen Welt auf die jüngere Generation betrifft. {{</box>}}
 
 **Technologischer Wandel**
 
@@ -27,8 +28,6 @@ Das Internet bietet Kindern zahlreiche Möglichkeiten zum Lernen und zur kogniti
 Das Internet birgt auch potenzielle Risiken für Kinder, wie die Exposition gegenüber unangemessenen Inhalten, Online-Mobbing, Datenschutzprobleme und übermäßiger Medienkonsum. Die Untersuchung dieser Herausforderungen und die Suche nach Lösungen zum Schutz von Kindern und zur Förderung eines gesunden Online-Erlebnisses sind wichtige Aspekte dieses Themas.
 
 Insgesamt ist der Einfluss des Internets auf Kinder und ihre Entwicklung ein vielschichtiges und dynamisches Thema, das eine breite Palette von Forschungsbereichen abdeckt.
-
-
 
 **Ab welchem alter haben Kinder zugang zum Internet?**
 
