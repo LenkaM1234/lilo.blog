@@ -4,6 +4,7 @@ date = "2023-06-08"
 draft = false
 pinned = false
 tags = ["slampoetry"]
+image = "soinnenblume.jpg"
 +++
 ### **Sommerfreude** 
 
